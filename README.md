@@ -1,2 +1,4 @@
 # Defect_Detection_In_Manufacturing_using_AI
 Built a defect detection system aimed at real-world manufacturing, where missing a flaw costs more than a wrong prediction. Trained a CNN-based pipeline with high validation accuracy (~99%). What stood out wasn’t just the performance—but how small inconsistencies in training revealed how sensitive real-world data can be.
+The project utilizes a CNN-based image classification model to automatically identify defective and non-defective products with high accuracy, helping improve quality control and reduce manual inspection efforts. Built using Python, TensorFlow/Keras, OpenCV, NumPy, and Flask, the system focuses on fast and efficient defect detection suitable for real-world industrial applications
+future scope for real-time camera integration and cloud deployment.
